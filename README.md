@@ -22,3 +22,15 @@ python -u train_gradmdm.py --model-type rl --gamma 100
 ```
 python -u train_gradmdm.py --model-type rl --gamma 100 --acc-maintain
 ```
+
+## Citation
+If you find our project useful in your research, please consider citing:
+```
+@article{pan2023gradmdm,
+  title={GradMDM: Adversarial Attack on Dynamic Networks},
+  author={Pan, Jianhong and Foo, Lin Geng and Zheng, Qichen and Fan, Zhipeng and Rahmani, Hossein and Ke, Qiuhong and Liu, Jun},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2023},
+  publisher={IEEE}
+}
+```
