@@ -1,7 +1,7 @@
 # GradMDM
 This repository contains the result and the sample code for the work:
 GradMDM: Adversarial Attack on Dynamic Networks
-
+test
 # To perturb adversarial samples to SkipNet on the ImageNet validation dataset
 ## Prerequisite 
 1. We support training with Pytorch 1.10.0. To install required packages
